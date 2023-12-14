@@ -196,9 +196,92 @@
 - [ ] yield*
 
 ### Statements & declarations
-git init
-git add .
-git commit -m "new challenger="
-git branch -M main
-git remote add origin https://github.com/Kapil685838/javascript-challenge.git
-git push -u origin main
+- [ ] Overview
+- [ ] async function
+- [ ] async function*
+- [ ] Block statement
+- [ ] break
+- [ ] class
+- [ ] const
+- [ ] continue
+- [ ] debugger
+- [ ] do...while
+- [ ] Empty statement
+- [ ] export
+- [ ] Expression statement
+- [ ] for
+- [ ] for await...of
+- [ ] for...in
+- [ ] for...of
+- [ ] function
+- [ ] function*
+- [ ] if...else
+- [ ] import
+- [ ] Labeled statement
+- [ ] let
+- [ ] return
+- [ ] switch
+- [ ] throw
+- [ ] try...catch
+- [ ] var
+- [ ] while
+- [ ] with
+
+### Functions
+- [ ] Overview
+- [ ] Arrow function expressions
+- [ ] Default parameters
+- [ ] get
+- [ ] Method definitions
+- [ ] Rest parameters
+- [ ] set
+- [ ] The arguments object
+
+### Classes
+- [ ] Overview
+- [ ] constructor
+- [ ] extends
+- [ ] Private properties
+- [ ] Public class fields
+- [ ] static
+- [ ] Static initialization blocks
+
+### Regular expressions
+- [ ] Overview
+- [ ] Backreference: \1, \2
+- [ ] Capturing group: (...)
+- [ ] Character class escape: \d, \D, \w, \W, \s, \S
+- [ ] Character class: [...], [^...]
+- [ ] Character escape: \n, \u{...}
+- [ ] Disjunction: |
+- [ ] Input boundary assertion: ^, $
+- [ ] Literal character: a, b
+- [ ] Lookahead assertion: (?=...), (?!...)
+- [ ] Lookbehind assertion: (?<=...), (?<!...)
+- [ ] Named backreference: \k<name>
+- [ ] Named capturing group: (?<name>...)
+- [ ] Non-capturing group: (?:...)
+- [ ] Quantifier: *, +, ?, {n}, {n,}, {n,m}
+- [ ] Unicode character class escape: \p{...}, \P{...}
+- [ ] Wildcard: .
+- [ ] Word boundary assertion: \b, \B
+
+### Errors
+- [ ] Overview
+- [ ] Error: Permission denied to access property "x"
+- [ ] InternalError: too much recursion
+- [ ] RangeError: argument is not a valid code point
+- [ ] RangeError: BigInt division by zero
+- [ ] RangeError: BigInt negative exponent
+- [ ] RangeError: invalid array length
+- [ ] RangeError: invalid date
+- [ ] RangeError: precision is out of range
+- [ ] RangeError: radix must be an integer
+- [ ] RangeError: repeat count must be less than infinity
+- [ ] RangeError: repeat count must be non-negative
+- [ ] RangeError: x can't be converted to BigInt because it isn't an integer
+- [ ] RangeError: "x" is not defined
+- [ ] RangeError: assignment to undeclared variable "x"
+- [ ] RangeError: can't access lexical declaration 'X' before initialization
+- [ ] RangeError: deprecated caller or arguments usage
+- [ ] RangeError: [ ]
