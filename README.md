@@ -284,4 +284,44 @@
 - [ ] RangeError: assignment to undeclared variable "x"
 - [ ] RangeError: can't access lexical declaration 'X' before initialization
 - [ ] RangeError: deprecated caller or arguments usage
-- [ ] RangeError: [ ]
+- [ ] RangeError: reference to undefined property "x"
+- [ ] SyntaxError: "0"-prefixed oclat literals and octal escape seq. are deprecated
+- [ ] SyntaxError: "use strict" not allowed in function with non-simple parameters
+- [ ] SyntaxError: "x" is a reserved identifier
+- [ ] SyntaxError: a declaration in the head of a for-of loop can't have an initializer
+- [ ] SyntaxError: applying the 'delete' operator to an unqulified name is deprecated
+- [ ] SyntaxError: await is only valid in async functions, async generators and modules
+- [ ] SyntaxError: cannot use '??' unparenthesized within '||' and '&&' expressions
+- [ ] SyntaxError: continue must be inside loop
+- [ ] SyntaxError: for-in loop head declarations may not have initializers
+- [ ] SyntaxError: function statement requires a name
+- [ ] SyntaxError: getter and setter for private name #x should either be both static or non-static
+- [ ] SyntaxError: identifier starts immediately after numeric literal
+- [ ] SyntaxError: illegal character
+- [ ] SyntaxError: invalid assignment left-hand side
+- [ ] SyntaxError: invalid BigInt syntax
+- [ ] SyntaxError: invalid regular expression flag "x"
+- [ ] SyntaxError: JSON.parse: bad parsing
+- [ ] SyntaxError: label not found
+- [ ] SyntaxError: missing ; before statement
+- [ ] SyntaxError: missing : after property id
+- [ ] SyntaxError: missing ) after argument list
+- [ ] SyntaxError: missing ) after condition
+- [ ] SyntaxError: missing ] after element list
+- [ ] SyntaxError: missing } after function body
+- [ ] SyntaxError: missing } after property list
+- [ ] SyntaxError: missing = in const declaration
+- [ ] SyntaxError: missing formal parameter
+- [ ] SyntaxError: missing name after . operator
+- [ ] SyntaxError: missing variable name
+- [ ] SyntaxError: redeclaration of formal parameter "x"
+- [ ] SyntaxError: return not in function
+- [ ] SyntaxError: test for equality (==) mistyped as assignment (=)?
+- [ ] SyntaxError: Unexpected '#' used outside of class body
+- [ ] SyntaxError: Unexpected token
+- [ ] SyntaxError: unlabeled break must be inside loop or switch
+- [ ] SyntaxError: unparenthesized unary expression can't appear on the left-hand side of '**'
+- [ ] SyntaxError: unterminated string literal
+- [ ] SyntaxError: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+- [ ] TypeError: 
+
