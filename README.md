@@ -1,7 +1,6 @@
 # Javascript Challenge
 
-# [JavaScript MDN Doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
+[JavaScript MDN Doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ## Tutorials
 
 ### Complete beginners
