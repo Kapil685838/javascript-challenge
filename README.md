@@ -323,5 +323,38 @@
 - [ ] SyntaxError: unparenthesized unary expression can't appear on the left-hand side of '**'
 - [ ] SyntaxError: unterminated string literal
 - [ ] SyntaxError: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
-- [ ] TypeError: 
+- [ ] TypeError: 'x' is not iterable
+- [ ] TypeError: "x" has no properties
+- [ ] TypeError: "x" is (not) "y"
+- [ ] TypeError: "x" is not a constructor
+- [ ] TypeError: "x" is not a function
+- [ ] TypeError: "x" is not a non-null object
+- [ ] TypeError: "x" is read-only
+- [ ] TypeError: can't assign to property "x" on "y": not an object
+- [ ] TypeError: can't convert BigInt to number
+- [ ] TypeError: can't convert x to BigInt
+- [ ] TypeError: can't define property "x": "obj" is not extensible
+- [ ] TypeError: can't delete non-configurable array element
+- [ ] TypeError: can't redefine non-configurable property "x"
+- [ ] TypeError: cannot use 'in' operator to search for 'x' in 'y' 
+- [ ] TypeError: cyclic object value 
+- [ ] TypeError: invalid 'instanceof' operand 'x'
+- [ ] TypeError: invalid Array.prototype.sort argument
+- [ ] TypeError: invalid assignment to const "x"
+- [ ] TypeError: More arguments needed
+- [ ] TypeError: property "x" is non-configurable and can't be deleted
+- [ ] TypeError: Reduce of empty array with no initial value
+- [ ] TypeError: setting getter-only property "x"
+- [ ] TypeError: X.prototype.y called on incompatible type
+- [ ] URIError: malformed URI sequence
+- [ ] Warning: -file- is being assigned a //# sourceMappingURL, but already has one
+- [ ] Warning: unreachable code after return statement
 
+### Misc
+- [ ] JavaScript technologies overview
+- [ ] Lexical grammar
+- [ ] Iteration protocols
+- [ ] Strict mode
+- [ ] Template literals
+- [ ] Trailing commas
+- [ ] Deprecated features
